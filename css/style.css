@@ -1,0 +1,79 @@
+.list{
+	display: flex;
+	list-style-type: none;
+}
+.navbar ul li{
+  		padding:4px;
+  	} 
+  	#ul1 li {
+  		padding: 20px;
+  		margin-left: 30px;
+  	}
+  .ul{
+  	margin-left: 20%;
+  }
+ .social-links{
+ 	background-color: #ff6347;
+ 	    text-align: center;
+    float: left;
+    width: 100px;
+    height: 100px;
+    border: 2px solid #909090;
+    border-radius: 100%;
+    margin-right: 7px;
+    display: flex;
+
+ }
+ .i{
+ 	font-size: 30px;
+ 	margin-left: 35px;
+ 	margin-top: 30px;
+ }
+.progressed{
+	height:15px;
+}
+.progressbar{
+	width:63%;
+	height:15px;
+}
+.progressbar1{
+	width:38%;
+	height:15px;
+}
+.progressbar2{
+	width:46%;
+	height:15px;
+}
+.progressbar3{
+	width:77%;
+	height:15px;
+}
+.margin{
+	margin-left: 10px;
+}
+.margin1{
+	margin-left: 10px;
+}
+.font{
+	font-size:80px;
+}
+.border{
+  border:1px;
+}
+#text1{
+  background-color: #D3D3D3;
+  padding: 20px;
+  border: 0;
+  border-radius: 5px;
+  width: 100%
+}
+#text2{
+  background-color: #D3D3D3;
+  border: 0;
+  border-radius: 5px;
+  width: 100%;
+  padding-bottom: 200px;
+}
+.width{
+  width: 100px;
+}
